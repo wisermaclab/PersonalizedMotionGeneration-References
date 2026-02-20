@@ -1,5 +1,6 @@
 Collection of references for the project on the generation of personalized motion data.
 ## Biomechanics
+Anderson et al - Maximum voluntary joint torque as a function of joint angle and angular velocity: Model development and application to the lower limb https://www.sciencedirect.com/science/article/pii/S0021929007001431<br>
 
 ## Machine Learning
 Feng et al. - MuscleVAE - Model-based controllers of muscle-actuated characters https://arxiv.org/abs/2312.07340<br>
